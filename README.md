@@ -11,5 +11,5 @@ Developed an interactive snooker game using p5.js. Implemented realistic ball ph
 - Add collision detection to show what kind of hit occurred
 
 ### Tech Stack ###
-Matter.js
+Matter.js <br>
 p5js
